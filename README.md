@@ -28,7 +28,7 @@
 
 - a light weight app to upload and search contacts
 - csv files can be uploaded , which is then queued and saved in store
-- existing contacts can searched and viewed in detail
+- existing contacts can be searched and viewed in detail
 
 ### API
 
