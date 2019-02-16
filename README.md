@@ -50,7 +50,7 @@
 
 ## improvements
 
-Things I thing should make this app a more usable product
+Things that should make this app a more usable product
 
 - e2e tests
 - authetication and guarding of Apis
