@@ -41,7 +41,7 @@
 ## installation
 
 - make sure you have docker installed.
-- run `docker-compose up` or `docker-compose -d`
+- run `docker-compose up` or `docker-compose up -d`
 - the app will be available at `http://localhost:8080`
 
 ## tests
